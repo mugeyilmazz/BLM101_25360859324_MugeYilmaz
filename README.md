@@ -35,4 +35,5 @@ kullanarak `index.html` dosyasını üretir.
 
 ## YouTube Video Linki
 [
-](https://youtu.be/vNfS2hmzjoE)
+(https://youtu.be/vNfS2hmzjoE)
+]
