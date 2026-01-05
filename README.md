@@ -34,4 +34,5 @@ kullanarak `index.html` dosyasını üretir.
 3. Program sonunda `index.html` dosyası otomatik olarak oluşturulur.
 
 ## YouTube Video Linki
-
+[
+](https://youtu.be/vNfS2hmzjoE)
