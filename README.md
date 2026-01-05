@@ -34,10 +34,10 @@ kullanarak `index.html` dosyasını üretir.
 3. Program sonunda `index.html` dosyası otomatik olarak oluşturulur.
 
 ## Kod Açıklaması(Markdown)
-Kodun Amacı
+Kodun Amacı:
 Bu Python programının amacı, kullanıcıdan alınan kişisel bilgileri (ad, bölüm, dersler ve biyografi) kullanarak dinamik bir HTML web sayfası (index.html) oluşturmaktır. Program çalıştırıldığında kullanıcıdan bilgiler alınır ve bu bilgiler otomatik olarak bir HTML şablonunun içine yerleştirilerek dosya haline getirilir.
 
-Kullanılan Kütüphaneler
+Kullanılan Kütüphaneler:
 Bu kodda herhangi bir harici (external) kütüphane kullanılmamıştır.
 Kullanılan tüm yapılar:
 Python’un gömülü (built-in) fonksiyonlarıdır.
@@ -48,7 +48,7 @@ print()
 split()
 Bu sayede program ek bir kurulum gerektirmeden çalışabilir.
 
-Algoritmanın Genel Mantığı
+Algoritmanın Genel Mantığı:
 Algoritma şu temel adımlardan oluşur:
 Kullanıcıdan gerekli bilgilerin alınması
 Girilen derslerin liste haline getirilmesi
